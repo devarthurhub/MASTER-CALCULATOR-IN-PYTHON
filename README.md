@@ -1,4 +1,5 @@
-# 🧮 Master Calculator ![Python](https://img.shields.io/badge/python-3.11-blue?style=for-the-badge&logo=python)
+# 🧮 Master Calculator ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
+
 
 
 🧮 Simple and fun Python **calculator** project made by a young developer!
