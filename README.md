@@ -1,4 +1,6 @@
 # 🧮 Master Calculator ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
+![Calculator](https://img.shields.io/badge/Calculator-Master-brightgreen?style=for-the-badge&logo=awesome)
+
 
 
 
