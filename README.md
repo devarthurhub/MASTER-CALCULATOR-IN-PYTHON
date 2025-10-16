@@ -1,4 +1,5 @@
-# 🧮 Master Calculator
+# 🧮 Master Calculator ![Python](https://img.shields.io/badge/python-3.11-blue?style=for-the-badge&logo=python)
+
 
 🧮 Simple and fun Python **calculator** project made by a young developer!
 This project was created by a young developer (11 years old!) to practice logic, loops, and math operations in Python. 🚀
