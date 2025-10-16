@@ -1,6 +1,6 @@
 # 🧮 Master Calculator
 
-A simple and fun **Python calculator** built using only the terminal.  
+🧮 Simple and fun Python **calculator** project made by a young developer!
 This project was created by a young developer (11 years old!) to practice logic, loops, and math operations in Python. 🚀
 
 ---
